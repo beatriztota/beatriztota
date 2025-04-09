@@ -1,8 +1,6 @@
 # 👋 Oi, eu sou a Beatriz!
 
 
----
-
 ## 🚀 Skills
 
 <div align="left">
